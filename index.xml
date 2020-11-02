@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugoサンプル</title>
+    <link>https://watanabebold.github.io/</link>
+    <description>Recent content on Hugoサンプル</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="https://watanabebold.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>テスト記事</title>
+      <link>https://watanabebold.github.io/hello/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://watanabebold.github.io/hello/</guid>
+      <description>ここに内容を書きますここに内容を書きますここに内容を書きますここに内容を書きますここに内容を書きます</description>
+    </item>
+    
+    <item>
+      <title>テスト記事</title>
+      <link>https://watanabebold.github.io/hello2/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://watanabebold.github.io/hello2/</guid>
+      <description>ここに内容を書きますここに内容を書きますここに内容を書きますここに内容を書きますここに内容を書きます</description>
+    </item>
+    
+  </channel>
+</rss>
